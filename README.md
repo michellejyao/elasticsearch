@@ -1,2 +1,1 @@
-# elasticsearch
-CLNC-141 - Setup Elasticsearch for logging
+# CLNC-141 - Setup Elasticsearch for logging
