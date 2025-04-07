@@ -1,5 +1,5 @@
 # CLNC-141 - Setup Elasticsearch for logging
-# Step 1:
+Step 1:
 The commands I ran were:
 1. curl -fsSL https://elastic.co/start-local | sh
 2. python -m pip install ecs-logging
